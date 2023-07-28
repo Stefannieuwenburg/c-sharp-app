@@ -1,0 +1,15 @@
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\bin\Debug\net7.0\c-sharp-app.exe
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\bin\Debug\net7.0\c-sharp-app.deps.json
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\bin\Debug\net7.0\c-sharp-app.runtimeconfig.json
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\bin\Debug\net7.0\c-sharp-app.dll
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\bin\Debug\net7.0\c-sharp-app.pdb
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\obj\Debug\net7.0\c-sharp-app.csproj.AssemblyReference.cache
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\obj\Debug\net7.0\c-sharp-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\obj\Debug\net7.0\c-sharp-app.AssemblyInfoInputs.cache
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\obj\Debug\net7.0\c-sharp-app.AssemblyInfo.cs
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\obj\Debug\net7.0\c-sharp-app.csproj.CoreCompileInputs.cache
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\obj\Debug\net7.0\c-sharp-app.dll
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\obj\Debug\net7.0\refint\c-sharp-app.dll
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\obj\Debug\net7.0\c-sharp-app.pdb
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\obj\Debug\net7.0\c-sharp-app.genruntimeconfig.cache
+C:\Users\Ik\OneDrive\Github_front_end_Developer\c-sharp-app\obj\Debug\net7.0\ref\c-sharp-app.dll
